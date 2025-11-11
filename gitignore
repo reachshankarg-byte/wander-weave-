@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.vite/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+*.env
+
+# Misc
+*.log
+.DS_Store
